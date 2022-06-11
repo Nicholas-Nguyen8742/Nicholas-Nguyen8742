@@ -1,4 +1,4 @@
-### Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="16px" width="16px">
+## Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="24px" width="24px">
 
 
 <p align="center">
