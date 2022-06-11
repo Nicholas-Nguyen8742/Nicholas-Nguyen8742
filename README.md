@@ -1,6 +1,6 @@
-## Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="24px" width="24px">
+## Hi I'm Nick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="24px" width="24px">
 
-I'm Nick, a full-stack developer that is based out of Orlando. Talk to me about: 
+Welcome to my profile! I'm a full-stack developer that is based out of Orlando. Talk to me about: 
 * Front-End Development: React, Electron, HTML5, CSS3, SASS
 * Back End Development: Express, Node, mySQL
 * Libraries: Leaflet, React-Router-Dom, ReactJS-Popup, D3, Hardhat, Ethers
