@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,electron,css,sass,js,nodejs,express,mysql,figma,solidity,remix,git" />
+    <img src="https://skillicons.dev/icons?i=react,electron,redux,html,css,sass,js,nodejs,express,mysql,solidity,remix,git,figma&perline=7" />
   </a>
 </p>
 
