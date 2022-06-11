@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+
+<details>
+<summary>Github Metrics</summary>
 ![Metrics](/github-metrics.svg)
+</details>
 
 <!--
 **Nicholas-Nguyen8742/Nicholas-Nguyen8742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
