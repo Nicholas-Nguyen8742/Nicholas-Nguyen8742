@@ -52,3 +52,5 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_repositories: yes
+          plugin_repositories_featured: Nicholas-Nguyen8742/Orlando-Magic-Dashboard, ColtonSmith28/playgrounds-4-all-client, Nicholas-Nguyen8742/FitBitVersa3-SandDuneWatchFace, Nicholas-Nguyen8742/vertigo-network-client
+
