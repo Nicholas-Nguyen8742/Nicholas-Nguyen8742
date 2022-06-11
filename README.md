@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,electron,css,sass,js,nodejs,express,mysql,figma,solidity,remix,git" />
+  </a>
+</p>
 
 <details>
 <summary>Github Metrics</summary>
