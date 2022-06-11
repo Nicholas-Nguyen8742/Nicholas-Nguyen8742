@@ -1,4 +1,5 @@
-### Hi there <span height='40px' width='40px' src='https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif'/>
+\# Hello, friends! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 <p align="center">
   <a href="https://skillicons.dev">
