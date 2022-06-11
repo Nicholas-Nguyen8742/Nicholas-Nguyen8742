@@ -4,7 +4,9 @@
 <details>
 <summary>Github Metrics</summary>
 
+<p align="center">
 ![Metrics](/github-metrics.svg)
+</p>
 </details>
 
 <!--
