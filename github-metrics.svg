@@ -1876,7 +1876,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.59m out of 392m repositories</span>
+                                    <span class="gh">ranked 4.66m out of 392m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2013,7 +2013,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">1272c2e4</span>
-                            <span class="code">my-app/src/locales/en/translation.json</span>
+                            <span class="code">my-app/src/locales/es/translation.json</span>
                             <span class="code">
                                 <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--2</span>
@@ -2024,7 +2024,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -16,8 +16,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"Careers &amp; Culture": "Careers &amp; Culture",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"Language": "Language",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"Explore": "Explore",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"Learn more": "Learn more",<br /></span><span class="token prefix deleted">-</span><span class="token line">"Get started": "Get started",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"Learn More": "Learn More",<br /></span><span class="token prefix inserted">+</span><span class="token line">"Get Quote": "Get Quote",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"Submit": "Submit",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"Message" : "Message",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"Your Message": "Your Message",</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -16,8 +16,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"Careers &amp; Culture": "Carreras &amp; cultura",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"Language": "Language",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"Explore": "Explorar",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">"Learn more": "Más información",<br /></span><span class="token prefix deleted">-</span><span class="token line">"Get started": "Comenzar",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"Learn More": "Más información",<br /></span><span class="token prefix inserted">+</span><span class="token line">"Get Quote": "Comenzar",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"Submit": "Enviar",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"Message" : "Mensaje",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"Your Message": "Tu Mensaje",</span></span></code>
                         </div>
                     </section>
                 </div>
