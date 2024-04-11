@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1765 Commits
+                            1766 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -114,14 +114,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.2785548276243" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="209.2785548276243" y="0" width="156.33068947233218" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="365.60924429995646" y="0" width="67.14846807993942" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="432.75771237989585" y="0" width="19.459097645908116" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.21681002580397" y="0" width="5.598676177976449" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.81548620378044" y="0" width="1.1288853255036484" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="458.94437152928407" y="0" width="0.7729861229331297" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.7173576522172" y="0" width="0.28264234778273845" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.28207337297746" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="209.28207337297746" y="0" width="156.32849557694914" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="365.61056894992663" y="0" width="67.14752573960561" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="432.75809468953224" y="0" width="19.458824563094833" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.21691925262706" y="0" width="5.598597607928177" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.8155168605552" y="0" width="1.1288694830845305" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="458.94438634363974" y="0" width="0.7729752750907003" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.7173616187304" y="0" width="0.282638381269548" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -537,15 +537,15 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.025)">
+                            <g transform="translate(-8.5, 10.1)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.975 0,1.975 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.975 1.7,2.975 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9 0,1.9 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9 1.7,2.9 z"/>
                             </g>
-                            <g transform="translate(-10.2, 12)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-10.2, 11.925)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.075 0,1.075 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.075 1.7,2.075 z"/>
                             </g>
                         </g>
                         <g transform="translate(5.1, 3)">
@@ -1503,7 +1503,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.69m out of 134m users</span>
+                                    <span class="gh">ranked 1.69m out of 133m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">29</div>
                                     </div>
@@ -1710,7 +1710,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 627k out of 134m users</span>
+                                    <span class="gh">ranked 627k out of 133m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">22</div>
                                     </div>
